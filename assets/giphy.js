@@ -2,7 +2,7 @@
 $(document).ready(function() {
 
 
-    var topics = ["The Godfather", "Pulp Fiction", "Shawshank Redemption", "Forrest Gump", "Star Wars", "Jurassic Park", "The Thing", "Raiders of The Lost Ark", "Wall-e"];
+    var movies = ["The Godfather", "Pulp Fiction", "Shawshank Redemption", "Forrest Gump", "Star Wars", "Jurassic Park", "The Thing", "Raiders of The Lost Ark", "Wall-e"];
 
 
     function displayInfo() {
